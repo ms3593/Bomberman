@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/back.jpg</file>
+        <file>img/fixedblock.jpg</file>
+        <file>img/normalwall.jpg</file>
+        <file>img/p1_dole.png</file>
+        <file>img/bomb.png</file>
+        <file>img/p1_desno.png</file>
+        <file>img/p1_gore.png</file>
+        <file>img/p1_levo.png</file>
+        <file>img/p2_desno.png</file>
+        <file>img/p2_dole.png</file>
+        <file>img/p2_gore.png</file>
+        <file>img/p2_levo.png</file>
+        <file>img/fire.jpg</file>
+        <file>img/dead.png</file>
+        <file>img/bombpowerup.png</file>
+        <file>img/firepowerup.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgsound.mp3</file>
+        <file>boom.mp3</file>
+    </qresource>
+</RCC>
